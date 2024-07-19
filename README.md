@@ -15,4 +15,5 @@ I learned the differences between BFS and DFS
 
 ### General
 I learned how to create graphical representations of data, form nodes and utilize adjecency lists to represent connections between nodes using gephi.
-I learned how to use Visual Studio debugging tools to debug programs with complex flows such as recursive programs. 
+I learned how to use Visual Studio debugging tools to debug programs with complex flows such as recursive programs.
+I learned how sysargv can be used to change the behavior of the program using the command to run the program.  
